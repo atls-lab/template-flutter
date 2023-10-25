@@ -8,7 +8,7 @@ import 'app/hive/hive.dart';
 import 'app/router/app_router.dart';
 
 Future<void> main() async {
-  const String environment =
+  const environment =
       String.fromEnvironment('MODE', defaultValue: 'DEV');
   String envFileName;
 
