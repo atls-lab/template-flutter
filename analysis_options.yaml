@@ -46,7 +46,7 @@ linter:
     library_prefixes: true
     non_constant_identifier_names: true
     null_closures: true
-    omit_local_variable_types: true
+    omit_local_variable_types: false
     package_api_docs: true
     package_prefixed_library_names: true
     prefer_adjacent_string_concatenation: true
